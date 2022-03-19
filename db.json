@@ -1,19 +1,19 @@
 {
   {
-    "name": "Juan Jose";
-    "tipdoc": "CC";
-    "doc": "1002365896";
-    "gender": "Hombre";
-    "hobby": "Estudiar y hacer deporte";
-    "imagen": "NO FOUND";
+    "name": "Juan Jose",
+    "tipdoc": "CC",
+    "doc": "1002365896",
+    "gender": "Hombre",
+    "hobby": "Estudiar y hacer deporte",
+    "imagen": "NO FOUND",
   }
 
   {
-    "name": "Adriana";
-    "tipdoc": "TI";
-    "doc": "1061258963";
-    "gender": "Mujer";
-    "hobby": "Salir a jugar y maquillarme";
-    "imagen": "NO FOUND";
+    "name": "Adriana",
+    "tipdoc": "TI",
+    "doc": "1061258963",
+    "gender": "Mujer",
+    "hobby": "Salir a jugar y maquillarme",
+    "imagen": "NO FOUND",
   }
 }
